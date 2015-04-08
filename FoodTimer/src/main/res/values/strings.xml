@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Yummy Timer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="startSession">Start Session</string>
+    <string name="biteAccepted">Yummy</string>
+    <string name="biteNumber">1</string>
+    <string name="endSession">End Session</string>
+    <string name="directions">Timing x second bites</string>
+    <string name="sessionTotalTime">Session time elapsed:</string>
+    <string name="chewTimeRemaining">Chew Time Location</string>
+    <string name="biteNumberHeader">Bites Eaten</string>
+    <string name="elapsedTimeHeader">placeholder - elapsedTimeHeader</string>
+    <string name="startDirections">touch Start Session button</string>
+    <string name="todo1">add record keeping</string>
+    <string name="todo2">add meal plan recording for session</string>
+    <string name="todo3">add email function to send to Ms. Berry</string>
+
+</resources>
